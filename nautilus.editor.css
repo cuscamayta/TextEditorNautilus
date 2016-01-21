@@ -1,0 +1,61 @@
+﻿.nautilus-editor {
+    position: relative;
+    margin: 15px 0;
+    padding: 5px;
+    /*padding: 39px 19px 14px;*/
+    background-color: #dddddd;
+    border: 1px solid #dddddd;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+
+.content-editor {
+    height: 100%;
+    background-color: #ffffff;
+    padding: 10px;
+    border: 1px solid #d3d3d3;
+}
+
+.color-btn {
+    width: 17px;
+    height: 17px;
+    padding: 0;
+    margin: 0;
+    border: 1px solid #dddddd;
+}
+
+
+
+.btn-default .btn {
+    background-color: #fff !important;
+}
+
+/*styles form tables*/
+/*.table {
+    display: table;
+    height: 50%;
+}*/
+
+.row {
+    display: table-row;
+}
+
+.cell {
+    display: table-cell;
+    border: solid;
+    border-width: thin;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    border: 1px solid #000000;
+}
+
+.p:hover {
+     background-color: #d3d3d3;
+     height: 50%;
+     border: 1px solid #000000;
+}
+
+
+
